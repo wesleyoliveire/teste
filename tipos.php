@@ -2,4 +2,6 @@
 
 $numeros = 1000;
 
-echo gettype($numeros);
+$numeros = 50;
+
+echo("$numeros");
